@@ -68,6 +68,9 @@ body {
 .product-image-desktop {
   display: none;
 }
+.description {
+  line-height: 1.5;
+}
 
 .add-cart {
   font-family: inherit;
